@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+.left-side{float: left; margin-top: 10px;}
+
+.add_category, .add_products{ float: left; width: 100%; background-color: #f5f5f5; padding: 10px; margin-bottom: 15px;}
+.add_products input,select{ margin-bottom: 10px;}
+
+.right-side{float: left; margin-top: 10px;}
+
+.displayrrcords{float: left; width: 100%; background-color: #f5f5f5; padding: 10px;}
+.displayrrcords-title {float: left; width: 100%; background-color: blueviolet; padding: 15px; color: #fff;}
+
+.displayrrcords table{margin-bottom: 0px; margin-top: 10px;}
+.displayrrcords table tr td a{margin-right: 10px;}
+
+
